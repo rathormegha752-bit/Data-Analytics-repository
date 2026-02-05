@@ -1,5 +1,3 @@
-# Data-Analytics-repository
-
 # Data Analytics Projects
 
 Welcome to my Data Analytics project portfolio.  
