@@ -1,0 +1,6 @@
+1- select specific column
+2- filter rows
+3- combine multiple condition
+
+1- square brackets
+2- boolean conditions
